@@ -1,0 +1,37 @@
+- name: Eric Bishard
+  bio: |
+    A React, JS and web developer (@httpJunkie)
+  avatar: ./avatars/eric-bishard.jpg
+  featured: true
+  social:
+    - name: github
+      url: https://github.com/httpJunkie
+    - name: twitter
+      url: https://twitter.com/httpJunkie
+    - name: linkedin
+      url: https://www.linkedin.com/in/eric-b/
+- name: Matthew Groves
+    bio: |
+    A React, JS and web developer (@httpJunkie)
+    avatar: ./avatars/eric-bishard.jpg
+    featured: true
+    social:
+    - name: github
+        url: https://github.com/httpJunkie
+    - name: twitter
+        url: https://twitter.com/httpJunkie
+    - name: linkedin
+        url: https://www.linkedin.com/in/eric-b/
+- name: Denis Rosa
+    bio: |
+    A React, JS and web developer (@httpJunkie)
+    avatar: ./avatars/eric-bishard.jpg
+    featured: true
+    social:
+    - name: github
+        url: https://github.com/httpJunkie
+    - name: twitter
+        url: https://twitter.com/httpJunkie
+    - name: linkedin
+        url: https://www.linkedin.com/in/eric-b/
+

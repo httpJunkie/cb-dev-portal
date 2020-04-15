@@ -192,7 +192,8 @@ const YourPathContainer = styled.div<{ isDark: boolean }>`
 .java {
   height: 100%;
   flex: 1;
-  border: 6px solid #7925B3;
+  border: 6px solid rgb(121,37,179);
+  background-color: rgba(121,37,179, 0.1);
   text-align: center;
 
   border-radius: 5%;
@@ -205,7 +206,8 @@ const YourPathContainer = styled.div<{ isDark: boolean }>`
 .csharp {
   height: 100%;
   flex: 1;
-  border: 6px solid #C62A65;
+  border: 6px solid rgb(198,42,101);
+  background-color: rgba(198,42,101, 0.1);
   text-align: center;
 
   border-radius: 5%;
@@ -219,7 +221,8 @@ const YourPathContainer = styled.div<{ isDark: boolean }>`
   height: 100%;
   flex 1;
   display:inline-block;
-  border: 6px solid #3494B3;
+  border: 6px solid rgb(52,148,179);
+  background-color: rgba(52,148,179, 0.1);
   text-align: center;
 
   border-radius: 5%;

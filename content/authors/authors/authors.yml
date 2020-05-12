@@ -1,6 +1,5 @@
 - name: Eric Bishard
-  bio: |
-    A React, JS and web developer from San Francisco Bay area
+  bio: A React, JS and web developer from San Francisco Bay area
   avatar: ./avatars/eric-bishard.jpg
   featured: true
   social:
@@ -11,8 +10,7 @@
     - name: linkedin
       url: https://www.linkedin.com/in/eric-b/
 - name: Matthew Groves
-    bio: |
-      A C# and .NET developer from Central Ohio
+    bio: A C# and .NET developer from Central Ohio
     avatar: ./avatars/matthew-groves.jpg
     featured: true
     social:
@@ -23,8 +21,7 @@
     - name: linkedin
         url: https://www.linkedin.com/in/mgroves/
 - name: Denis Rosa
-    bio: |
-      A Java and SPring developer from Munich, Germany
+    bio: A Java and Spring developer from Munich, Germany
     avatar: ./avatars/denis-rosa.jpg
     featured: true
     social:

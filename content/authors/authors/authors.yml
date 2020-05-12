@@ -2,7 +2,6 @@
   bio: |
     A React, JS and web developer from San Francisco Bay area
   avatar: ./avatars/eric-bishard.jpg
-  featured: true
   social:
     - url: https://github.com/httpJunkie
     - url: https://twitter.com/httpJunkie
@@ -21,6 +20,7 @@
   bio: |
     A Java and Spring developer from Munich, Germany
   avatar: ./avatars/denis-rosa.jpg
+  featured: true
   social:
     - url: https://github.com/deniswsrosa
     - url: https://twitter.com/deniswsrosa

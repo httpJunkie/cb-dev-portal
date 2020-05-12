@@ -6,7 +6,7 @@
     - url: https://github.com/httpJunkie
     - url: https://twitter.com/httpJunkie
     - url: https://www.linkedin.com/in/eric-b
-  featured: true
+    featured: true
 
 - name: Matthew Groves
   bio: |
@@ -16,7 +16,7 @@
     - url: https://github.com/mgroves
     - url: https://twitter.com/mgroves
     - url: https://www.linkedin.com/in/mgroves
-    
+
 - name: Denis Rosa
   bio: |
     A Java and Spring developer from Munich, Germany

@@ -1,12 +1,27 @@
 - name: Eric Bishard
   bio: |
-    A React, JS and web developer (@httpJunkie)
+    A React, JS and web developer from San Francisco Bay area
   avatar: ./avatars/eric-bishard.jpg
+  social:
+    - url: https://github.com/httpJunkie
+    - url: https://twitter.com/httpJunkie
+    - url: https://www.linkedin.com/in/eric-b
+
+- name: Matthew Groves
+  bio: |
+    A C# and .NET developer from Central Ohio
+  avatar: ./avatars/matthew-groves.jpg
+  social:
+    - url: https://github.com/mgroves
+    - url: https://twitter.com/mgroves
+    - url: https://www.linkedin.com/in/mgroves
+
+- name: Denis Rosa
+  bio: |
+    A Java and Spring developer from Munich, Germany
+  avatar: ./avatars/denis-rosa.jpg
   featured: true
   social:
-    - name: github
-      url: https://github.com/httpJunkie
-    - name: twitter
-      url: https://twitter.com/httpJunkie
-    - name: linkedin
-      url: https://www.linkedin.com/in/eric-b/
+    - url: https://github.com/deniswsrosa
+    - url: https://twitter.com/deniswsrosa
+    - url: https://www.linkedin.com/in/deniswsrosa

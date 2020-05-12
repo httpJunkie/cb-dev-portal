@@ -2,11 +2,11 @@
   bio: |
     A React, JS and web developer from San Francisco Bay area
   avatar: ./avatars/eric-bishard.jpg
+  featured: true
   social:
     - url: https://github.com/httpJunkie
     - url: https://twitter.com/httpJunkie
     - url: https://www.linkedin.com/in/eric-b
-    featured: true
 
 - name: Matthew Groves
   bio: |

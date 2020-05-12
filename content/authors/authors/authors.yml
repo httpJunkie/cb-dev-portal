@@ -1,34 +1,28 @@
+  
 - name: Eric Bishard
-  bio: A React, JS and web developer from San Francisco Bay area
+  bio: |
+    A React, JS and web developer from San Francisco Bay area
   avatar: ./avatars/eric-bishard.jpg
-  featured: true
   social:
-    - name: github
-      url: https://github.com/httpJunkie
-    - name: twitter
-      url: https://twitter.com/httpJunkie
-    - name: linkedin
-      url: https://www.linkedin.com/in/eric-b/
-- name: Matthew Groves
-    bio: A C# and .NET developer from Central Ohio
-    avatar: ./avatars/matthew-groves.jpg
-    featured: true
-    social:
-    - name: github
-        url: https://github.com/mgroves
-    - name: twitter
-        url: https://twitter.com/mgroves
-    - name: linkedin
-        url: https://www.linkedin.com/in/mgroves/
-- name: Denis Rosa
-    bio: A Java and Spring developer from Munich, Germany
-    avatar: ./avatars/denis-rosa.jpg
-    featured: true
-    social:
-    - name: github
-        url: https://github.com/deniswsrosa
-    - name: twitter
-        url: https://twitter.com/deniswsrosa
-    - name: linkedin
-        url: https://www.linkedin.com/in/deniswsrosa/
+    - url: https://github.com/httpJunkie
+    - url: https://twitter.com/httpJunkie
+    - url: https://www.linkedin.com/in/eric-b/
+  featured: true
 
+- name: Matthew Groves
+  bio: |
+    A C# and .NET developer from Central Ohio
+  avatar: ./avatars/matthew-groves.jpg
+  social:
+    - url: https://github.com/mgroves
+    - url: https://twitter.com/mgroves
+    - url: https://www.linkedin.com/in/mgroves/
+
+- name: Denis Rosa
+  bio: |
+    A Java and Spring developer from Munich, Germany
+  avatar: ./avatars/denis-rosa.jpg
+  social:
+    - url: https://github.com/deniswsrosa
+    - url: https://twitter.com/deniswsrosa
+    - url: https://www.linkedin.com/in/deniswsrosa/

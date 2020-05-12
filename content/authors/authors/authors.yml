@@ -1,4 +1,3 @@
-  
 - name: Eric Bishard
   bio: |
     A React, JS and web developer from San Francisco Bay area
@@ -8,7 +7,6 @@
     - url: https://twitter.com/httpJunkie
     - url: https://www.linkedin.com/in/eric-b/
   featured: true
-
 - name: Matthew Groves
   bio: |
     A C# and .NET developer from Central Ohio
@@ -17,7 +15,6 @@
     - url: https://github.com/mgroves
     - url: https://twitter.com/mgroves
     - url: https://www.linkedin.com/in/mgroves/
-
 - name: Denis Rosa
   bio: |
     A Java and Spring developer from Munich, Germany
